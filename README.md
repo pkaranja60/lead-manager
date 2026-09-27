@@ -4,7 +4,7 @@ A full-stack Lead Management application built with Next.js (App Router, Tailwin
 
 ---
 
-## 🔗 Live Link (Optional / If Deployed)
+## 🔗 Live Link (Deployed)
 
 - **Production App**: [https://your-deployed-lead-manager.vercel.app](https://frontend-pink-psi-58.vercel.app/)
 - **API Health Check**: `https://your-backend-api.onrender.com/`(https://lead-manager-01u8.onrender.com)
