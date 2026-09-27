@@ -1,0 +1,15 @@
+{
+	"name": "lead-manager",
+	"version": "1.0.0",
+	"description": "Lead Management",
+	"workspaces": [
+		"frontend",
+		"backend"
+	],
+	"scripts": {
+		"start": "concurrently \"bun --filter frontend dev\" \"bun --filter backend dev\""
+	},
+	"devDependencies": {
+		"concurrently": "^10.0.5"
+	}
+}
